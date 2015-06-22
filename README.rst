@@ -1,13 +1,7 @@
-Python Module Skeleton
-======================
+Procamcalib API
+===============
 
-This is an adaptation of a sample Python module `skeleton`_
-used to help assist in making Python projects more easily.
-
-Usage
------
-
-Download this repo and then adjust the files to your use for your project.
+TODO: @vishnu  Litle description here.
 
 License
 -------
